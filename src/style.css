@@ -1,0 +1,36 @@
+/* .loginForm {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+input {
+    display: block;
+}
+
+
+.in {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+}
+
+.show {
+    display: block;
+} */
+
+
+#products {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}

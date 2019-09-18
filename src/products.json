@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Lego",
+    "price": 1200,
+    "url": "https://cdn.shopify.com/s/files/1/1553/8473/products/lego-ideas-21311-voltron-5.jpg?v=1537433579",
+    "inStock": false
+  },
+  {
+    "title": "Lego",
+    "price": 1200,
+    "url": "https://legobuy.com.ua/image/cache/catalog/lego-technic/42082/kupit-lego-tekhnik-42082-500x500.jpg",
+    "inStock": true
+  },
+  {
+    "title": "Lego",
+    "price": 1200,
+    "url": "https://besplatka.ua/aws/54/30/20/01/konstruktor-lepin-23013-2314pcs-genuine-lego-technic-moc-series-suv-photo-54e5.jpg",
+    "inStock": true,
+    "sold": "hhtps"
+  }
+]

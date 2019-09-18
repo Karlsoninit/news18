@@ -1,0 +1,10 @@
+<div id="container">
+    {{#each this}}
+    {{#if inStock}}
+    <h2>{{title}}</h2>
+    <img src="{{url}}" alt="" class="image">
+    <div class="description">{{description}}</div>
+    <p class="price">{{price}}</p>
+    {{/if}}
+    {{/each}}
+</div>
